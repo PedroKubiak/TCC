@@ -54,7 +54,7 @@ tcc/
 Se estiver usando o GitHub Pages, acesse:
 
 ```
-https://pedrokubiak.github.io/tcc/
+https://pedrokubiak.github.io/TCC/
 ```
 
 ---
@@ -80,3 +80,4 @@ Em caso de dúvidas ou sugestões, entre em contato:
 ---
 
 🎅 *Obrigado por visitar! Boas festas e bom desenvolvimento!* 🎄
+
